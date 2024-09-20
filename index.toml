@@ -6,6 +6,11 @@ hash = "c1e73cda7be31eaa0cb6afbd430eae9ad811e6cbb1091abf09c6bc86f527dc0e"
 metafile = true
 
 [[files]]
+file = "mods/aether-lootr-compat.pw.toml"
+hash = "c1458cd373bdda6442cec7e314c29360b34f54eef969fde343319185e9dd16f3"
+metafile = true
+
+[[files]]
 file = "mods/aether.pw.toml"
 hash = "60a6223b39c88bca7dbf372c8560cf437377b2d4024c20712d36588216c858b2"
 metafile = true
@@ -111,6 +116,11 @@ hash = "a167c88b43b73530c14b77d8cfa8c3546ee665ffa317f0451a6767e46bdae0de"
 metafile = true
 
 [[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "350515eff162272fc4424ae014aa2d86bbe3ad4ded6c2139f352fa88bb522098"
+metafile = true
+
+[[files]]
 file = "mods/blood-magic.pw.toml"
 hash = "488623331de35d0132795aeb028cca441fc0d5c2e358faf25e973894fb3859a7"
 metafile = true
@@ -186,6 +196,11 @@ hash = "84a0f647a6e00bda3cf95aad23bfbd123402f5dd7ca46a3b4b4116a77f656068"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "9a46e878cc447fa6375554fddd18cfe4f7a04cd232ae1685be6af7c7f75b617a"
 metafile = true
@@ -223,6 +238,16 @@ metafile = true
 [[files]]
 file = "mods/default-skill-trees.pw.toml"
 hash = "5030767722d857c89d4d3920d856becb9445bbe24244686066985d03ab0448dd"
+metafile = true
+
+[[files]]
+file = "mods/distant-horizons.pw.toml"
+hash = "8f3d5a8b2a39fe8ac2ce04a864a3c0a3346f7787177f5806674d90423c3a8193"
+metafile = true
+
+[[files]]
+file = "mods/easyzoom.pw.toml"
+hash = "dc9dd333c5f415ee703b0a73853bca828a65d85c4fb9d315a7a3b133a8bc711d"
 metafile = true
 
 [[files]]
@@ -301,6 +326,16 @@ hash = "d507db8caee0d3dba1968e5f0bcac9f4578ebb475b8bb0ea7f0769f2555fc929"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons.pw.toml"
+hash = "4e8f486fd2fc6fd61370570450918f63e5b4850ceba0192c610896ac1ac9d87d"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "50d0d75c988e3dc115ba552895eb7b4dab51c900310e4b651f90341e94741940"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "11e6972435ae5cdddb2d4555ad8762d2bc32c6893ec0899ba96d86c93a404f99"
 metafile = true
@@ -318,6 +353,11 @@ metafile = true
 [[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "1fd7013e2b41e76c0d0bccc7f47a88ebcbb4f597d1f5bea3126caa2d7b13200f"
+metafile = true
+
+[[files]]
+file = "mods/lootr.pw.toml"
+hash = "7ff110c86a5c19b4c5638695d9a888fb3558649410c49bc21ec0f7711587f1de"
 metafile = true
 
 [[files]]
@@ -508,6 +548,11 @@ metafile = true
 [[files]]
 file = "mods/runelic.pw.toml"
 hash = "53254c5c7af6238845518f9e289b8b91337e88b6dad4566c2e1b223f6901f456"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "2cb8dd9a3944a6430b49916a4fe1b6cf0bd7efd907054f8e679a02717149404f"
 metafile = true
 
 [[files]]
