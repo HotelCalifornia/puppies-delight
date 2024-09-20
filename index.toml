@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "1e71eeb091c3c8a054e0a1ff31871426d12b4eb4b882f5c639ef1cc555dcb4ed"
+
+[[files]]
+file = "config/bcc-common.toml"
+hash = "76a698b01889752aec381e043716028ab5095f369dcd1a49aaa4f6f33fd5c430"
+
+[[files]]
+file = "config/majruszsdifficulty.json"
+hash = "29d11ad2a99d22d26b08e432c08aff16c0f17864d7cef860039adb6580239e21"
+
+[[files]]
 file = "mods/aether-delight.pw.toml"
 hash = "c1e73cda7be31eaa0cb6afbd430eae9ad811e6cbb1091abf09c6bc86f527dc0e"
 metafile = true
@@ -242,7 +254,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "8f3d5a8b2a39fe8ac2ce04a864a3c0a3346f7787177f5806674d90423c3a8193"
+hash = "e25e27602c989a9d616c4e6ca598b8e9d7f11c78882226ff415cca8f7532ae8e"
 metafile = true
 
 [[files]]
