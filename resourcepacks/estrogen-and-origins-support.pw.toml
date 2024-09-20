@@ -1,0 +1,13 @@
+name = "Estrogen and Origins Support"
+filename = "Estrogen Food20-08-2024.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "23b9306cab76d954edcaaea8bbcc406714bb081f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5669548
+project-id = 1089046

@@ -1,0 +1,13 @@
+name = "Graveyard Delight"
+filename = "graveyarddelight-1.0.2-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "45d66d9febe303ce9ee711b3f7c1b89c35e28a61"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5690127
+project-id = 1082771

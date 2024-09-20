@@ -1,0 +1,13 @@
+name = "Dark Utilities Delight"
+filename = "darkutilitiesdelight-1.0.1-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "adc228bd27d0e48d8e75152a101b104fed34be40"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5731928
+project-id = 1103381

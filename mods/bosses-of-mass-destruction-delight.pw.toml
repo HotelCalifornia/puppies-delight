@@ -1,0 +1,13 @@
+name = "Bosses of Mass Destruction Delight"
+filename = "bossesofmassdestructiondelight-1.0.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "09f99ad3aa32aff9b1511062bdfac2a4f9d822b2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5729522
+project-id = 1104104

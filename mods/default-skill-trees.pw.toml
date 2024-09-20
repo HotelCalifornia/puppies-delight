@@ -1,0 +1,13 @@
+name = "Default Skill Trees"
+filename = "default_skill_trees-1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "26067c62c8b688c0231761c4134d4378d02a7dcc"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5587013
+project-id = 1074229

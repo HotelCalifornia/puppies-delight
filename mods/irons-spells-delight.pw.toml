@@ -1,0 +1,13 @@
+name = "Iron's Spells Delight"
+filename = "ironsspellsdelight-1.0.2-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "80e71cb4d8a7dc2328e20ec3268017f0d6a4784c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5738217
+project-id = 1094462
