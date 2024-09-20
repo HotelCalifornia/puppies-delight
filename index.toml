@@ -349,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "11e6972435ae5cdddb2d4555ad8762d2bc32c6893ec0899ba96d86c93a404f99"
+hash = "caf9eb48e4eac66f7659d01896341a9c7d749ce2ddff264305283258c0b3a996"
 metafile = true
 
 [[files]]
