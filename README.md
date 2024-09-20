@@ -48,7 +48,7 @@ To install the pack for a client, I recommend using a launcher like [prism](http
 1. Create a new instance. Pick 1.20.1 for the version, and select Forge as the mod loader.
 2. Edit the instance you just made. While you're here, you should probably set new memory limits.
 3. Go to the Custom commands pane in the settings window, and check the custom commands box. In the **Pre-launch command** field, enter `"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://hotelcalifornia.github.io/puppies-delight/pack.toml`
-4. Download [packwiz-installer-bootstrap](https://github.com/packwiz/packwiz-installer-bootstrap/releases) and place the jar file in your instance folder (right click on the instance and click Folder).
+4. Download [packwiz-installer-bootstrap](https://github.com/packwiz/packwiz-installer-bootstrap/releases) and place the jar file in the .minecraft or minecraft folder inside your instance folder (right click on the instance and click Folder).
 5. On first launch, you may be prompted to manually download a few mods that are excluded from the CurseForge API.
 
 ### Server
