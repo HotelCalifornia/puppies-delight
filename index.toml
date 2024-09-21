@@ -203,6 +203,11 @@ hash = "8628a832792c54b2328c60672fe122479bcf8c791f1bc7dbab37204432eeff7d"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "c1bdeff356cd2ac164e2c0e6d0ceeda234db9774c2df44fb9f0e71d3960cc3f1"
+metafile = true
+
+[[files]]
 file = "mods/connector.pw.toml"
 hash = "84a0f647a6e00bda3cf95aad23bfbd123402f5dd7ca46a3b4b4116a77f656068"
 metafile = true
@@ -259,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/easyzoom.pw.toml"
-hash = "dc9dd333c5f415ee703b0a73853bca828a65d85c4fb9d315a7a3b133a8bc711d"
+hash = "f952a4a523d42d6d12606dac37ba1a53ad0680c384d45023d2cb7638ee80a4a7"
 metafile = true
 
 [[files]]
@@ -628,6 +633,11 @@ hash = "34c753d57921285a83277436458188043f5a1b9f7cfdd48a54fc12cddb97c6c7"
 metafile = true
 
 [[files]]
+file = "mods/tpa.pw.toml"
+hash = "9bb8d239c0c587430bd25b6709273cb6ff6379fc12306eaa91526584eb5f3a4c"
+metafile = true
+
+[[files]]
 file = "mods/xl-packets.pw.toml"
 hash = "69a85643d125b0454ed6408cfa4a7cea1b3566c78ed3fd5f3107f93fa852f1c9"
 metafile = true
@@ -700,4 +710,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/estrogen-and-origins-support.pw.toml"
 hash = "c59319b584fd8e779c98ff9baae22f07674e49171beea847609c82aee0024406"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "8a72dc1bff556553bc502e93fd133b2cfc736688c95e997d501803831f94ba22"
 metafile = true

@@ -1,0 +1,13 @@
+name = "TPA"
+filename = "tpa-1.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8dfafa9ca71d2ae9f707f26593170b3452219e77"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5735103
+project-id = 939167
