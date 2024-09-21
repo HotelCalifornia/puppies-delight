@@ -28,6 +28,11 @@ hash = "60a6223b39c88bca7dbf372c8560cf437377b2d4024c20712d36588216c858b2"
 metafile = true
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "11c40209898628cc8ca75d28f539c449384b40600bfc88272306f6138f4e4428"
+metafile = true
+
+[[files]]
 file = "mods/aiot-botania.pw.toml"
 hash = "4441dfafb3760c238cbd748325c99e088bfd9b09754c5e24028d2102040c4387"
 metafile = true
@@ -118,6 +123,11 @@ hash = "e9179c6f362e82c08ffb103a8e19c7dbdbeb18b24cca69ffacbd8b1929e23031"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "7fbee422bf0c8308757b7159767572b3fe920c82c137cc2408f8555fbfc9ef9b"
+metafile = true
+
+[[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "f6a0e47845c06a47bbd3471318c2b95e83ad4e3d1759c84d0a2a3bf6437ca33a"
 metafile = true
@@ -125,6 +135,11 @@ metafile = true
 [[files]]
 file = "mods/better-compatibility-checker.pw.toml"
 hash = "a167c88b43b73530c14b77d8cfa8c3546ee665ffa317f0451a6767e46bdae0de"
+metafile = true
+
+[[files]]
+file = "mods/better-fps-render-distance.pw.toml"
+hash = "0651f0e4c8067fbbc25f3efcd1d43278b44d240e4c8e375fb398eaf63e34f58d"
 metafile = true
 
 [[files]]
@@ -218,6 +233,11 @@ hash = "1e56f528d8e21b0cf9c52c3d6deea2a4eafa408170b39a070195dbf66617f373"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "9f2bb57e05bad305f03c25c275c6d11e952835a41b2da68dba10a0bd1f3f6261"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "9a46e878cc447fa6375554fddd18cfe4f7a04cd232ae1685be6af7c7f75b617a"
 metafile = true
@@ -225,6 +245,11 @@ metafile = true
 [[files]]
 file = "mods/cucumber.pw.toml"
 hash = "52312dd9bdbd4c0b20f37eb36fed788b971fbdaa8322f37302feb0965cef51e6"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
 metafile = true
 
 [[files]]
@@ -258,6 +283,11 @@ hash = "5030767722d857c89d4d3920d856becb9445bbe24244686066985d03ab0448dd"
 metafile = true
 
 [[files]]
+file = "mods/dimensional-threads.pw.toml"
+hash = "26f81f4b47401ac19fea25d18d104751476c065e6fe1d679d76fc886463c0a4c"
+metafile = true
+
+[[files]]
 file = "mods/distant-horizons.pw.toml"
 hash = "7d1b5800c7c809e30299b40a5f3cfe98f7945634dd6dc842cccc7aa01f0543b5"
 metafile = true
@@ -285,6 +315,31 @@ metafile = true
 [[files]]
 file = "mods/fast-leaf-decay.pw.toml"
 hash = "fd5aa059dd7e148e9ce801455b438425c0ad36537ce4b635edeb524900b15284"
+metafile = true
+
+[[files]]
+file = "mods/fastfurnace.pw.toml"
+hash = "932ddad36de5cc064fd285cff392872050de95e262029d336e99f44e0ce01d97"
+metafile = true
+
+[[files]]
+file = "mods/fastload.pw.toml"
+hash = "b4fc21a94115c0044b9c7bf79b5b5eddef5034361039a1cbc1af4afc47662f46"
+metafile = true
+
+[[files]]
+file = "mods/fastsuite.pw.toml"
+hash = "f66951f1aede8b984643c636b2f3177354395254f9e60a9728dbcbcf1d94668d"
+metafile = true
+
+[[files]]
+file = "mods/fastworkbench.pw.toml"
+hash = "77095e78d0432b58d1243f271e953c8c6b318bf8dbd0563358b07e15baf30a9c"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.pw.toml"
+hash = "5bd0506bc0be25116b234f2b5af9447f60d82ae1cb6c5be4e12d8841f6c2501c"
 metafile = true
 
 [[files]]
@@ -325,6 +380,11 @@ metafile = true
 [[files]]
 file = "mods/graveyard-delight.pw.toml"
 hash = "f7706c43f25f56b872cca18fee0e60e423e6d13b6a75c0d32a236c5599b21506"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "891d9f74c6b4efb41a0f0d0d5a97e881ca24ba275627a9f9bb165fb61a729017"
 metafile = true
 
 [[files]]
@@ -393,6 +453,16 @@ hash = "a046012af4b6bf79a0c79122968c013fc3adb1a95cb296e508065e0a4718d427"
 metafile = true
 
 [[files]]
+file = "mods/mobtimizations.pw.toml"
+hash = "1623bcd1af853d7e4490c4c689668dea6c6bc238d5bb90c5c1113fa9f6cd1b5c"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "f03861f83a9f0c69606d5e355b9a342838a04d255873cf0751c676dd50ec6e8e"
+metafile = true
+
+[[files]]
 file = "mods/moon-phase-delight.pw.toml"
 hash = "beac6416ae8b1de2277509ea0db467c7fe6987c5d6784d170453c6ea9cec1875"
 metafile = true
@@ -425,6 +495,11 @@ metafile = true
 [[files]]
 file = "mods/mystical-agriculture.pw.toml"
 hash = "75f4e7a19467bc08af42a4417a84a368156db8c4ee927b169b532520d5584fb6"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "464e83a35e22e9bbdf7be38cf7a7a98c39462a0a50b01d2a1355bcae9167ea7a"
 metafile = true
 
 [[files]]
@@ -583,6 +658,11 @@ hash = "60fffd9990be454a9dffb87a2804f654e6deb21b2ee63924ef4a84d443612352"
 metafile = true
 
 [[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "a6fa210db6d27f784814e6f9c559a6aab70e1b5d225d45ce743d9062b50d6f19"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "71102bb75e79ce2695ed0fc1d4198dd8395d9a737b9b1d3a358142b764e058d7"
 metafile = true
@@ -630,6 +710,11 @@ metafile = true
 [[files]]
 file = "mods/the-graveyard-forge.pw.toml"
 hash = "34c753d57921285a83277436458188043f5a1b9f7cfdd48a54fc12cddb97c6c7"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "20e15c7019ce77fca1432a3f3d287aa04ae00760c25d5a48bd3f390b07e6d3c6"
 metafile = true
 
 [[files]]
