@@ -708,6 +708,11 @@ hash = "85a71671d0de5a84f67b7b9b14d7582c7b73967feea8301a180867496aa7e535"
 metafile = true
 
 [[files]]
+file = "mods/tetratic-combat-expanded.pw.toml"
+hash = "dccdce1dc5385d5b84feb972861bc1500c7c236f1ceb0b6a46dcf519bf2f40a5"
+metafile = true
+
+[[files]]
 file = "mods/the-graveyard-forge.pw.toml"
 hash = "34c753d57921285a83277436458188043f5a1b9f7cfdd48a54fc12cddb97c6c7"
 metafile = true
