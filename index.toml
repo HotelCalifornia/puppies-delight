@@ -633,11 +633,6 @@ hash = "34c753d57921285a83277436458188043f5a1b9f7cfdd48a54fc12cddb97c6c7"
 metafile = true
 
 [[files]]
-file = "mods/tpa.pw.toml"
-hash = "9bb8d239c0c587430bd25b6709273cb6ff6379fc12306eaa91526584eb5f3a4c"
-metafile = true
-
-[[files]]
 file = "mods/xl-packets.pw.toml"
 hash = "69a85643d125b0454ed6408cfa4a7cea1b3566c78ed3fd5f3107f93fa852f1c9"
 metafile = true
