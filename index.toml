@@ -5,6 +5,14 @@ file = "README.md"
 hash = "1e71eeb091c3c8a054e0a1ff31871426d12b4eb4b882f5c639ef1cc555dcb4ed"
 
 [[files]]
+file = "config/apotheosis/spawner.cfg"
+hash = "8d002b508485d2852b1191563a28db1c2774b8cea3d8be721d94652c38ae4c74"
+
+[[files]]
+file = "config/artifacts/common.json5"
+hash = "7b2e29c75f2f1aafbce67c982147db4b7b4479f0b92fdd2dc3667c01c5755487"
+
+[[files]]
 file = "config/bcc-common.toml"
 hash = "76a698b01889752aec381e043716028ab5095f369dcd1a49aaa4f6f33fd5c430"
 
@@ -385,6 +393,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "ce2208de3caf116f938102b52c12ce0dd253753781a54bd0907c71dff32bc583"
+metafile = true
+
+[[files]]
+file = "mods/global-gamerules.pw.toml"
+hash = "69e21a8de3b798f251ad5476e97eab6714a1b01e264bc105ac636a444df54162"
 metafile = true
 
 [[files]]
