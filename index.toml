@@ -17,6 +17,14 @@ file = "config/bcc-common.toml"
 hash = "76a698b01889752aec381e043716028ab5095f369dcd1a49aaa4f6f33fd5c430"
 
 [[files]]
+file = "config/carryon-common.toml"
+hash = "a0754bb0572b53b832d7ea7f71e724422dfe2ac4e5e0fe609df492d647e083ba"
+
+[[files]]
+file = "config/globalgamerules-common.toml"
+hash = "43bbbd5fb42815e08b92da798795e04552b5b06bd98d5cb5698e9fc3b83310ab"
+
+[[files]]
 file = "config/majruszsdifficulty.json"
 hash = "29d11ad2a99d22d26b08e432c08aff16c0f17864d7cef860039adb6580239e21"
 
@@ -608,11 +616,6 @@ metafile = true
 [[files]]
 file = "mods/puffish-attributes.pw.toml"
 hash = "b08d76fb43652ae5f575b4288539fee94b8a0e436571d5dd994b790c9dc41f91"
-metafile = true
-
-[[files]]
-file = "mods/puffish-skills.pw.toml"
-hash = "2390b9a3cf8832f8090ca99534ca6691ec51b91e1946d353762ed4f3248bd101"
 metafile = true
 
 [[files]]
