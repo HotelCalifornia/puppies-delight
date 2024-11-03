@@ -1,6 +1,7 @@
 name = "Projectile Damage Attribute [Fabric & Forge]"
 filename = "projectile_damage-forge-3.2.2+1.20.1.jar"
 side = "both"
+pin = true
 
 [download]
 hash-format = "sha1"

@@ -363,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/distant-horizons.pw.toml"
-hash = "e25e27602c989a9d616c4e6ca598b8e9d7f11c78882226ff415cca8f7532ae8e"
+hash = "c5712265569985a24660a6794d9803d1b48cf4ee1d7eb1ad44d351ccc788f0db"
 metafile = true
 
 [[files]]
@@ -713,7 +713,7 @@ metafile = true
 
 [[files]]
 file = "mods/projectile-damage-attribute.pw.toml"
-hash = "8688a0ecc4fc294fe8ab3b7e56d5af40ddfd32da1c09180af5c1575766dd1c48"
+hash = "c81d38da9da5d10f56f24435cfabcd3ea1c6a94ceaa35cda209947d0ce5a662d"
 metafile = true
 
 [[files]]
