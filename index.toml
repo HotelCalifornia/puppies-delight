@@ -5,6 +5,10 @@ file = "README.md"
 hash = "1e71eeb091c3c8a054e0a1ff31871426d12b4eb4b882f5c639ef1cc555dcb4ed"
 
 [[files]]
+file = "config/aether-common.toml"
+hash = "bf3c695666e25182bbdb6c4fcca3a2bad6a69fe658829bd271d2048150d6dae2"
+
+[[files]]
 file = "config/apotheosis/spawner.cfg"
 hash = "8d002b508485d2852b1191563a28db1c2774b8cea3d8be721d94652c38ae4c74"
 
@@ -19,6 +23,10 @@ hash = "76a698b01889752aec381e043716028ab5095f369dcd1a49aaa4f6f33fd5c430"
 [[files]]
 file = "config/carryon-common.toml"
 hash = "a0754bb0572b53b832d7ea7f71e724422dfe2ac4e5e0fe609df492d647e083ba"
+
+[[files]]
+file = "config/curios-common.toml"
+hash = "5cd45cc74c7fb280f554a9f93f525557157d86aa712c7e54029419d5c13b806e"
 
 [[files]]
 file = "config/globalgamerules-common.toml"
@@ -149,6 +157,11 @@ hash = "7fbee422bf0c8308757b7159767572b3fe920c82c137cc2408f8555fbfc9ef9b"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "0c6982d793283b27ef35fdc3b57b7b9554fbc162c03ac7431ebbee9b1d5b241c"
+metafile = true
+
+[[files]]
 file = "mods/better-archeology.pw.toml"
 hash = "2adb8c4c9a368dac1980d99180bec4ff1ec51d8c01d73093bcc2610e95803cd9"
 metafile = true
@@ -171,6 +184,11 @@ metafile = true
 [[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "350515eff162272fc4424ae014aa2d86bbe3ad4ded6c2139f352fa88bb522098"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "9c58190a9065cdd0d88578bb335ff9c683212fcb1b8322aa6b6dd715295eb217"
 metafile = true
 
 [[files]]
@@ -201,6 +219,11 @@ metafile = true
 [[files]]
 file = "mods/botarium.pw.toml"
 hash = "008c942efc2e2ec221dd1a760b4a50e2f24ede37747731ba794f5e845554adcb"
+metafile = true
+
+[[files]]
+file = "mods/building-wands.pw.toml"
+hash = "c7955ddf99f02fe3a4203cedd586775fcf2d66e65fa2e9431ac358b9511de3c6"
 metafile = true
 
 [[files]]
@@ -269,6 +292,16 @@ hash = "9f2bb57e05bad305f03c25c275c6d11e952835a41b2da68dba10a0bd1f3f6261"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
+
+[[files]]
+file = "mods/cosmetics.pw.toml"
+hash = "c4f6e2d428fb8a10d2e3a67ca0a83b940d33d87f099692d489f13b6f05627dc8"
+metafile = true
+
+[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "bc0573b24f5dc93fcc644f7c5ba99d66c18097f874070b2808fd0af7ccb10259"
 metafile = true
@@ -276,6 +309,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "9a46e878cc447fa6375554fddd18cfe4f7a04cd232ae1685be6af7c7f75b617a"
+metafile = true
+
+[[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "83c65e1eb2e5b72692adb428b3f713d7ca2fb681eded29c4414d657d2ea0cfa5"
 metafile = true
 
 [[files]]
@@ -331,6 +369,11 @@ metafile = true
 [[files]]
 file = "mods/embeddium.pw.toml"
 hash = "a1575677daaaf6ea6dac12e5a10073e34025e5ca2c35b6d36ad4a5a0edbc0e82"
+metafile = true
+
+[[files]]
+file = "mods/enderman-overhaul.pw.toml"
+hash = "f29e468a2aa1801bc8d9fdb0608b148d3e6eca97b25ef146a3e5d26bdff03f89"
 metafile = true
 
 [[files]]
@@ -426,6 +469,11 @@ metafile = true
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
 hash = "59d22263e36313c43ad7c5e4179cb3554d414f701442b0784d94c0ba2384edfd"
+metafile = true
+
+[[files]]
+file = "mods/galosphere.pw.toml"
+hash = "1be92368ec20f1f493c46ad2afdccd1caf3bf605f54862d8badd3f25c9729df0"
 metafile = true
 
 [[files]]
@@ -549,6 +597,11 @@ hash = "f03861f83a9f0c69606d5e355b9a342838a04d255873cf0751c676dd50ec6e8e"
 metafile = true
 
 [[files]]
+file = "mods/monster-plus.pw.toml"
+hash = "5e78521a42d511205657dd73552015de57cf2da9c9e24739728a843a0e63d8b7"
+metafile = true
+
+[[files]]
 file = "mods/moon-phase-delight.pw.toml"
 hash = "beac6416ae8b1de2277509ea0db467c7fe6987c5d6784d170453c6ea9cec1875"
 metafile = true
@@ -561,6 +614,11 @@ metafile = true
 [[files]]
 file = "mods/mutil.pw.toml"
 hash = "4e0ebdb97b93b545a2ab458e7aea179a32564234a7828fe4ecbee415d68916a2"
+metafile = true
+
+[[files]]
+file = "mods/mythicmetals.pw.toml"
+hash = "0663ab0892e480965351064b590335d5729342fbdda890dcf41582c65191bc33"
 metafile = true
 
 [[files]]
@@ -596,6 +654,11 @@ metafile = true
 [[files]]
 file = "mods/openblocks-elevator.pw.toml"
 hash = "9d66478fde6c978312f93734d481bcb9ae9c49b74cb4538fce58c65ef15d593c"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "9a0ab52020c3a2d073e71f07ce11b9d2d8ae0a17b8a3cf0c9227029a51df51c3"
 metafile = true
 
 [[files]]
@@ -676,6 +739,11 @@ metafile = true
 [[files]]
 file = "mods/rechiseled.pw.toml"
 hash = "3e8c59c1817babb68d49af1bd816d6d00ffbaa8343968ad324996a0d5deb9c69"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "692ed5c4b3794053fbfb08107a2b0b0f90eec49b005a13be6ca86321e80df7ba"
 metafile = true
 
 [[files]]
@@ -871,6 +939,11 @@ metafile = true
 [[files]]
 file = "mods/zeta.pw.toml"
 hash = "583961055f3e588845076ace49394c9ca830706a73eb1b4a4cbfe4db9f0950e9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/blues-better-monsters.pw.toml"
+hash = "4578fea882652b1f4062d63939a1f930b31c10f1e0b3fd206ac1b7688115163e"
 metafile = true
 
 [[files]]

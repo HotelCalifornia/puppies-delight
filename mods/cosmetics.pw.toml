@@ -1,0 +1,13 @@
+name = "Cosmetica"
+filename = "cosmetica-1.20-1.2.9.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f25c46322eabd73912c917823787a9281bb01072"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5250195
+project-id = 581009

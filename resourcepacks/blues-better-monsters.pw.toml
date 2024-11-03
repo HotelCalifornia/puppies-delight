@@ -1,0 +1,13 @@
+name = "Blue's Better Monsters"
+filename = "Blues_Better_Monsters_v0.10.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cdf9f00f981699cbbf9913690917208ef696ce8b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5745825
+project-id = 1017176
