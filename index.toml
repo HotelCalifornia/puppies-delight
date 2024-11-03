@@ -187,11 +187,6 @@ hash = "350515eff162272fc4424ae014aa2d86bbe3ad4ded6c2139f352fa88bb522098"
 metafile = true
 
 [[files]]
-file = "mods/betterend-delight.pw.toml"
-hash = "c4a0169a87ce9ff3bc8aaef3beaae47b364e18612f1901afd294e5dd4ca87d7f"
-metafile = true
-
-[[files]]
 file = "mods/betterend.pw.toml"
 hash = "9c58190a9065cdd0d88578bb335ff9c683212fcb1b8322aa6b6dd715295eb217"
 metafile = true
@@ -713,7 +708,7 @@ metafile = true
 
 [[files]]
 file = "mods/projectile-damage-attribute.pw.toml"
-hash = "fba64eba971fc3ee6cced6fd4b68feafd8c32c747ba5353c7ef00a99f91a1c0d"
+hash = "8688a0ecc4fc294fe8ab3b7e56d5af40ddfd32da1c09180af5c1575766dd1c48"
 metafile = true
 
 [[files]]
