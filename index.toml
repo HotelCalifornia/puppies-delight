@@ -82,6 +82,11 @@ hash = "5e1239fd67c97c042d09cf38664698c9d1a3cfbc50d779fc550c461cf6aeb565"
 metafile = true
 
 [[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "1bc328e5477ce87bb27110fd90258de8767f9ffef86434ae0c0c301292c29fb0"
+metafile = true
+
+[[files]]
 file = "mods/almanac-lib.pw.toml"
 hash = "067c72c78318b03c01b6d35aff74135ef1c969425e471efe777dce7a174c7005"
 metafile = true
