@@ -1,13 +1,13 @@
 name = "Apotheosis Delight"
-filename = "apotheosisdelight-1.0.1-1.20.1.jar"
+filename = "apotheosisdelight-1.0.2-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f257ce12ed732481d39f5131f7041d623710ea98"
+hash = "19c477cea313116d750f866677e205abf35860a2"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5729502
+file-id = 5823089
 project-id = 1099761

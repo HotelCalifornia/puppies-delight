@@ -1,13 +1,13 @@
 name = "Nether's Exoticism"
-filename = "nether-s-exoticism-1.20.1-1.2.8.jar"
+filename = "nether-s-exoticism-1.20.1-1.2.9.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "edc1a82679c2f1f41dd651b8510612a08ffc439e"
+hash = "55a80bce0d0e82091ead63eddad66c84197f1198"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5338643
+file-id = 5825956
 project-id = 486029

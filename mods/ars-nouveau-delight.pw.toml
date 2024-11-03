@@ -1,13 +1,13 @@
 name = "Ars Nouveau Delight"
-filename = "arsnouveaudelight-1.0.3-1.20.1.jar"
+filename = "arsnouveaudelight-1.1.0-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "373ace4364f79f5e9ed3f9e8c28a63c9e86e280a"
+hash = "f7412cb4b54e2c1378f39aa26060fc9550834e12"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5645143
+file-id = 5869395
 project-id = 1074539

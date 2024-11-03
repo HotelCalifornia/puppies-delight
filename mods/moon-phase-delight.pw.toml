@@ -1,13 +1,13 @@
 name = "Moon Phase Delight"
-filename = "moonphasedelight-1.0.1-1.20.1.jar"
+filename = "moonphasedelight-1.0.2-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "a7cd0ae027590789405f2c738ea02dfb4bef9597"
+hash = "e54b5434ae8f1a6ee7615e04d0de230985164009"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5732003
+file-id = 5814887
 project-id = 1102178

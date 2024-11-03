@@ -1,13 +1,13 @@
 name = "Alex's Caves Delight"
-filename = "alexscavesdelight-1.0.16-1.20.1.jar"
+filename = "alexscavesdelight-1.0.19.1-1.20.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "91001fe5b6d569c9dcba89d274c4e81d58e94220"
+hash = "ce525ad1a5b50c8c6f94c873e00f81b3fcac5363"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5720258
+file-id = 5845960
 project-id = 1035901
