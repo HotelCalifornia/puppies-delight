@@ -637,11 +637,6 @@ hash = "4e0ebdb97b93b545a2ab458e7aea179a32564234a7828fe4ecbee415d68916a2"
 metafile = true
 
 [[files]]
-file = "mods/mythicmetals.pw.toml"
-hash = "36ac9f1349d615741c917fb6d83f144117d0a9a0c898305b79bec05c108b42d4"
-metafile = true
-
-[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "464e83a35e22e9bbdf7be38cf7a7a98c39462a0a50b01d2a1355bcae9167ea7a"
 metafile = true
@@ -869,6 +864,11 @@ metafile = true
 [[files]]
 file = "mods/tetratic-combat-expanded.pw.toml"
 hash = "b2727abae4392a82d10ad88e3b2cfeb3dc4a309fc315f23d935124e010d5134c"
+metafile = true
+
+[[files]]
+file = "mods/the-bumblezone-forge.pw.toml"
+hash = "3f9d56179d3fdb155fd9ae31849fa1988514f6d351716fe11c1659f7e20fc452"
 metafile = true
 
 [[files]]
