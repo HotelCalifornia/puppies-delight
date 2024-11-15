@@ -37,6 +37,11 @@ file = "config/majruszsdifficulty.json"
 hash = "29d11ad2a99d22d26b08e432c08aff16c0f17864d7cef860039adb6580239e21"
 
 [[files]]
+file = "datapacks/puppies-delight-tweaks.pw.toml"
+hash = "847a34558c3ce0ccbb33e2fd5b76c45ff8fc27de8c2081a58fdb19a817f07c92"
+metafile = true
+
+[[files]]
 file = "mods/aether-delight.pw.toml"
 hash = "c1e73cda7be31eaa0cb6afbd430eae9ad811e6cbb1091abf09c6bc86f527dc0e"
 metafile = true
@@ -349,6 +354,11 @@ metafile = true
 [[files]]
 file = "mods/dark-utilities.pw.toml"
 hash = "5c70601c99b306cf5b6bb918443a5814071fa528829958aa51a7e2385c3c0379"
+metafile = true
+
+[[files]]
+file = "mods/data-loader-updated.pw.toml"
+hash = "4e305ed74b3975cb4bba455be9dd524e40441aeda06bb3df128eeafa59e0c222"
 metafile = true
 
 [[files]]
