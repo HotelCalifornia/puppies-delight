@@ -1,9 +1,9 @@
 name = "Puppies' Delight Tweaks"
-filename = "puppies-delight-tweaks-0.0.2.zip"
+filename = "puppies-delight-tweaks-0.0.4.zip"
 side = "both"
 
 [download]
-url = "https://github.com/HotelCalifornia/puppies-delight-tweaks/releases/download/0.0.2/puppies-delight-tweaks-0.0.2.zip"
+url = "https://github.com/HotelCalifornia/puppies-delight-tweaks/releases/download/0.0.4/puppies-delight-tweaks-0.0.4.zip"
 hash-format = "sha1"
-hash = "706759ad3be39d9d4e036a24a45b9eb6868f351d"
+hash = "90a093b012478122ef5628b1e8c27e65a6188619"
 
